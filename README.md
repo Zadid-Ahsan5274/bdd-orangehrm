@@ -1,6 +1,6 @@
 # bdd-orangehrm
 
-## Tools andtechnologies used
+## Tools and technologies used
 - Java
 - Intellij IDEA
 - Maven(Build Automation Tool)
